@@ -1,0 +1,4 @@
+# This project was developed on python 3.9.16
+scikit-learn==1.4
+seaborn   # latest version compatible with python 3.9.16 
+streamlit  # latest version compatible with python 3.9.16 and scikit-learn 1.4
